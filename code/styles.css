@@ -38,3 +38,6 @@ body, html {
   .button.quit {
     background-color: rgb(237, 106, 106);
   }
+  .footer {
+    background-color: bisque;
+  }
