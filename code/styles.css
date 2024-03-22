@@ -5,7 +5,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(44, 56, 81);
+    background-color: rgb(226, 22, 219);
   }
   
   #lottery-app {
@@ -37,4 +37,7 @@ body, html {
   
   .button.quit {
     background-color: rgb(237, 106, 106);
+  }
+  .footer {
+    background-color: bisque;
   }

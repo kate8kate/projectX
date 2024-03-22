@@ -9,7 +9,7 @@ playButton.addEventListener('click', function() {
         resultDisplay.textContent = `Ура, мы выиграли ${number}!`
     })
         .catch(number => {
-        resultDisplay.textContent = `Не повезло, не подфортило`;
+        resultDisplay.textContent = `Не повезло, не подфортило. Иди домой к жене!!!`;
         sound.play();
     })        
 });
